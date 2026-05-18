@@ -33,5 +33,3 @@
 </p>
 
 ---
-
-<p align="center">⭐️ Dibuat dengan semangat penuh cinta oleh **Gandi Afriyadi** ⭐️</p>
